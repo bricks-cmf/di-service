@@ -14,11 +14,11 @@
   ],
   "require": {
     "php": "^7.3",
-    "bricks-cmf/factory-service": "^0.1",
-    "bricks-cmf/config-service": "^0.1",
-    "bricks-framework/di": "^0.1",
-    "bricks-framework/alias": "^0.1",
-    "bricks-framework/servicelocator": "^0.1"
+    "bricks-cmf/factory-service": "^0.1|dev-master",
+    "bricks-cmf/config-service": "^0.1|dev-master",
+    "bricks-framework/di": "^0.1|dev-master",
+    "bricks-framework/alias": "^0.1|dev-master",
+    "bricks-framework/servicelocator": "^0.1|dev-master"
   },
   "autoload": {
     "classmap": ["lib/"]
